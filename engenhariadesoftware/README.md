@@ -4,4 +4,4 @@
    ***3 exemplos de Tradeoffs***
 - Velocidade na leitura de dados Vs Precisão dos dados;
 - Custo Vs Complexidade de um programa;
-- Velocidade de Inovação Vs Segurança-
+- Velocidade de Inovação Vs Segurança.
