@@ -4,10 +4,12 @@
    ***3 exemplos de Tradeoffs***
 - Velocidade na leitura de dados Vs Precisão dos dados;
   
-  Ao software fazer uma leitura dos dados armazenados dependendo de sua velocidade de resposta a precisão não é garantida, portanto dependendo para que sera utilizado os dados e se necessário precisão a velocidade não é a melhor opção
+Ao software fazer uma leitura dos dados armazenados dependendo de sua velocidade de resposta a precisão não é garantida, portanto dependendo para que sera utilizado os dados e se necessário precisão a velocidade não é a melhor opção
   
 - Custo Vs Complexidade de um programa;
-  Dependendo da complexidade que um programa é, isso é, sua funcionalidade e conteúdo necessário seu custo se torna maior, pois se faz necessário a contratação de mais programadores e servidores para que seja possível comportar meu programa.
+
+Dependendo da complexidade que um programa é, isso é, sua funcionalidade e conteúdo necessário seu custo se torna maior, pois se faz necessário a contratação de mais programadores e servidores para que seja possível comportar meu programa.
 
 - Velocidade de Inovação Vs Segurança.
-  A inovação é necessária, mas dependendo da velocidade que ela é criada, a segurança pode ser deixada de lado, o que é preocupante em casos de programas que utilizam dados sensíveis. 
+
+ A inovação é necessária, mas dependendo da velocidade que ela é criada, a segurança pode ser deixada de lado, o que é preocupante em casos de programas que utilizam dados sensíveis. 
