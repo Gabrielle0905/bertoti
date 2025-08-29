@@ -30,5 +30,5 @@ Dependendo da complexidade que um programa é, isso é, sua funcionalidade e con
 <h1>Exercício 4</h1>
 <h3>Diagrama de Classes</h3>
 <p>
-  
+  <img width="1010" height="260" alt="image" src="https://github.com/user-attachments/assets/c51791eb-db18-4f17-aae3-030f2e386368" />
 </p>
