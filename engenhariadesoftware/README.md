@@ -32,3 +32,12 @@ Dependendo da complexidade que um programa é, isso é, sua funcionalidade e con
 <p>
   <img width="1010" height="260" alt="image" src="https://github.com/user-attachments/assets/c51791eb-db18-4f17-aae3-030f2e386368" />
 </p>
+
+(arrumar)
+<img width="1586" height="422" alt="image" src="https://github.com/user-attachments/assets/6d52693f-8e3c-4fa6-b033-cf4c85f4cc46" />
+
+<img width="1562" height="478" alt="image" src="https://github.com/user-attachments/assets/898d0258-3b5f-46ec-bad4-32b57aba7791" />
+
+<img width="1607" height="333" alt="image" src="https://github.com/user-attachments/assets/92547877-1ce3-43bb-82bf-8a1221433b36" />
+
+
