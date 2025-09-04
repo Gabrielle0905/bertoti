@@ -27,11 +27,20 @@
 
 <h1>Exercício 4</h1>
 <h3>Diagrama de Classes</h3>
-<p>
-<img width="579" height="237" alt="image" src="https://github.com/user-attachments/assets/4741d62b-ee3a-4fea-820c-e9196bcf9bd9" />
-</p>
+<img width="921" height="382" alt="image" src="https://github.com/user-attachments/assets/a5177c16-cfd3-404c-a19e-42586c5fea16"/>
 
 <h1>Execício 5</h1>
 <h3>Código Java</h3>
+<img width="1919" height="763" alt="image" src="https://github.com/user-attachments/assets/dae14f0c-e83c-4943-8aa2-cbea4265f672" />
+
+<img width="1919" height="766" alt="image" src="https://github.com/user-attachments/assets/1a2f3189-df22-47da-b8b4-2dd77d3b5839" />
+
+<img width="1919" height="760" alt="image" src="https://github.com/user-attachments/assets/b6e930b7-f284-42a6-87ce-045418f52fd1" />
+
+<h1>Exercício 5</h1>
+<h3>Testes automatizados</h3>
+<img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/df6beddc-1a5a-434e-b156-0b16b8c9478a" />
+
+
 
 
