@@ -12,32 +12,26 @@
 
 <h1>Exercício 3</h1>
 <h3>3 exemplos de Tradeoffs</h3>
-<p>
 
-  - Velocidade na leitura de dados Vs Precisão dos dados;
+ <ul><li> Velocidade na leitura de dados Vs Precisão dos dados;</li></ul>
   
-Ao software fazer uma leitura dos dados armazenados dependendo de sua velocidade de resposta a precisão não é garantida, portanto dependendo para que sera utilizado os dados e se necessário precisão a velocidade não é a melhor opção
+<p>Ao software fazer uma leitura dos dados armazenados dependendo de sua velocidade de resposta a precisão não é garantida, portanto dependendo para que sera utilizado os dados e se necessário precisão a velocidade não é a melhor opção.</p>
   
-- Custo Vs Complexidade de um programa;
+ <ul><li> Custo Vs Complexidade de um programa;</li></ul>
 
-Dependendo da complexidade que um programa é, isso é, sua funcionalidade e conteúdo necessário seu custo se torna maior, pois se faz necessário a contratação de mais programadores e servidores para que seja possível comportar meu programa.
+<p>Dependendo da complexidade que um programa é, isso é, sua funcionalidade e conteúdo necessário seu custo se torna maior, pois se faz necessário a contratação de mais programadores e servidores para que seja possível comportar meu programa.</p>
 
-- Velocidade de Inovação Vs Segurança.
+ <ul><li> Velocidade de Inovação Vs Segurança.</li></ul>
 
- A inovação é necessária, mas dependendo da velocidade que ela é criada, a segurança pode ser deixada de lado, o que é preocupante em casos de programas que utilizam dados sensíveis. 
- </p>
+<p>A inovação é necessária, mas dependendo da velocidade que ela é criada, a segurança pode ser deixada de lado, o que é preocupante em casos de programas que utilizam dados sensíveis.</p>
 
 <h1>Exercício 4</h1>
 <h3>Diagrama de Classes</h3>
 <p>
-  <img width="1010" height="260" alt="image" src="https://github.com/user-attachments/assets/c51791eb-db18-4f17-aae3-030f2e386368" />
+<img width="579" height="237" alt="image" src="https://github.com/user-attachments/assets/4741d62b-ee3a-4fea-820c-e9196bcf9bd9" />
 </p>
 
-(arrumar)
-<img width="1586" height="422" alt="image" src="https://github.com/user-attachments/assets/6d52693f-8e3c-4fa6-b033-cf4c85f4cc46" />
-
-<img width="1562" height="478" alt="image" src="https://github.com/user-attachments/assets/898d0258-3b5f-46ec-bad4-32b57aba7791" />
-
-<img width="1607" height="333" alt="image" src="https://github.com/user-attachments/assets/92547877-1ce3-43bb-82bf-8a1221433b36" />
+<h1>Execício 5</h1>
+<h3>Código Java</h3>
 
 
