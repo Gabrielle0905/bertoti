@@ -37,7 +37,7 @@
 
 <img width="1919" height="760" alt="image" src="https://github.com/user-attachments/assets/b6e930b7-f284-42a6-87ce-045418f52fd1" />
 
-<h1>Exercício 5</h1>
+<h1>Exercício 6</h1>
 <h3>Testes automatizados</h3>
 <img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/df6beddc-1a5a-434e-b156-0b16b8c9478a" />
 
