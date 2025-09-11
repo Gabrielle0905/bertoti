@@ -55,4 +55,4 @@
 
 <h1>Exercício 9</h1>
 <h3>Testes automatizados</h3>
-<img width="1886" height="577" alt="image" src="https://github.com/user-attachments/assets/e22f01b1-65be-4500-94a1-8528ad519533" />
+<img width="1887" height="627" alt="image" src="https://github.com/user-attachments/assets/398a6d22-c321-4b52-b297-1c77b004d55c" />
