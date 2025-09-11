@@ -41,6 +41,12 @@
 <h3>Testes automatizados</h3>
 <img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/df6beddc-1a5a-434e-b156-0b16b8c9478a" />
 
+<h1>Exercício 7</h1>
+<h3>Diagrama de Classes</h3>
+<img width="614" height="494" alt="image" src="https://github.com/user-attachments/assets/70813575-b4e6-4938-8c67-b78e23fa21bd" />
 
+<h1>Exercício 8</h1>
+<h3>Código Java</h3>
 
-
+<h1>Exercício 9</h1>
+<h3>Testes automatizados</h3>
