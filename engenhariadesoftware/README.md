@@ -47,6 +47,12 @@
 
 <h1>Exercício 8</h1>
 <h3>Código Java</h3>
+<img width="1891" height="535" alt="image" src="https://github.com/user-attachments/assets/e06b519f-4fb9-4958-8af4-aac3c6979820" />
+
+<img width="1889" height="897" alt="image" src="https://github.com/user-attachments/assets/f9f53ff3-af43-4cfb-9a9b-fda6133a6094" />
+
+<img width="1886" height="571" alt="image" src="https://github.com/user-attachments/assets/0acae593-0684-41c2-8e48-f490a23276d9" />
 
 <h1>Exercício 9</h1>
 <h3>Testes automatizados</h3>
+<img width="1886" height="577" alt="image" src="https://github.com/user-attachments/assets/e22f01b1-65be-4500-94a1-8528ad519533" />
